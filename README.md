@@ -51,10 +51,11 @@ XpenseMate is a comprehensive personal finance management application designed t
 - **Multer**: Middleware for handling multipart/form-data
 
 ### Development & Build Tools
-- **npm**: Package manager for JavaScript dependencies
-- **PostCSS**: Tool for transforming CSS with JavaScript plugins
-- **ESLint**: Code linting utility for identifying syntax errors
-- **Prettier**: Code formatter for consistent styling
+- Visual Studio Code (IDE)
+- Git (version controlling system)
+- Github (host project files)
+- Browser
+- Postman(For Api Testing)
 
 ## Installation Setup
 
