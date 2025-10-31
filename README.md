@@ -311,15 +311,15 @@ frontend/
 backend/
 ├── src/
 │   ├── controllers/        # Request handlers
-│   ├── models/             # Database models
-│   ├── routes/             # API route definitions
-│   ├── middleware/         # Custom middleware
-│   ├── services/           # Business logic
-│   ├── utils/              # Helper functions
-│   ├── configs/            # Configuration files
-│   └── index.js            # Server entry point
-├── .env                    # Environment variables
-└── package.json            # Backend dependencies
+│   ├── models/            # Database models
+│   ├── routes/            # API route definitions
+│   ├── middleware/        # Custom middleware
+│   ├── services/          # Business logic
+│   ├── utils/             # Helper functions
+│   ├── configs/           # Configuration files
+│   └── index.js           # Server entry point
+├── .env                   # Environment variables
+└── package.json           # Backend dependencies
 ```
 
 ## Contributing
