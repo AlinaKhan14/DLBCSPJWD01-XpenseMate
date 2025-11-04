@@ -3,6 +3,8 @@
 XpenseMate is a personal finance management web app that helps users track expenses, set budget goals, manage payments, and analyze their spending.
 This project is built for IU's "Project: Java and Web Development (DLBCSPJWD01)" course. It is a simple web application that helps users manage their finances by tracking daily expenses and setting budget goals.
 
+![App Screenshot](./frontend/src/images/Screenshot_29-10-2025_03929_localhost%20-%20Copy.jpeg)
+
 ## ✨ Features
 
 - ✅ User authentication
