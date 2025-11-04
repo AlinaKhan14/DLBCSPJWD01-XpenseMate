@@ -5,13 +5,13 @@ This project is built for IU's "Project: Java and Web Development (DLBCSPJWD01)"
 
 ## ✨ Features
 
-- ✅ User authentication (Email & Google Login)
+- ✅ User authentication
 - ✅ Expense tracking with categories and details
 - ✅ Budget goal creation and progress tracking
 - ✅ Payment management (incoming & outgoing)
 - ✅ Financial analytics with charts and graphs
 - ✅ Profile and settings management
-- ✅ Multi-currency & multi-language support
+- ✅ Multi-currency support
 - ✅ Upload profile and cover photos
 - ✅ Responsive, mobile-friendly UI
 
